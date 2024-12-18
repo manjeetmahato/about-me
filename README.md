@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="" alt="Data Scientist Banner" style="width:100%;">
+  <img src="https://github.com/manjeetmahato/about-me/blob/main/Dsgithub.jpg" alt="Data Scientist Banner" style="width:100%;">
 </a>
 
 <h1 align="left">Hi 👋, I'm Manjeet</h1>
@@ -14,10 +14,11 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**.
-- 💬 **Ask me about**: Python, SQL, Data Visualization, Data Manipulation, and Machine Learning.
-- 📫 **Email me at**: [Add here later].
-- 🤝 **Connect with me on LinkedIn**: [Add your LinkedIn link].
+- 🌱 Currently exploring **Machine Learning, Deep Learning, NLP, Generative AI, and LLMs (Large Language Models)**.
+- 💬 **Ask me about**: Python, SQL, Data Visualization, Data Manipulation, Machine Learning, Deep Learning, NLP, GEN AI and LLMs.
+- 📫 **Email me at**: manjeetmahato62@gmail.com
+- 🤝 **Connect with me on LinkedIn**: https://www.linkedin.com/in/manjeet-mahato-a374141b9/
+
 
 ---
 
